@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <center>
 # C.V. Kimberly Navarro-Velez
-Ph.D. Student in Natural Resources and the Environment  
+2nd year Ph.D. Student in Natural Resources and the Environment  
 Cornell University, Ithaca, NY.  
 kcn35@cornell.edu
 </center>  
