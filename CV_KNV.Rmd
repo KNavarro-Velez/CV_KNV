@@ -1,0 +1,86 @@
+---
+title: "Lab_1"
+author: "Kim"
+date: "1/26/2023"
+output:
+  html_document: 
+    toc: true
+    toc_depth: 2
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center> Centered text (HTML) </center>
+\center Centered text for pdf \center 
+
+<center>
+# C.V. Kimberly Navarro-Velez
+Ph.D. Student in Natural Resources and the Environment  
+kcn35@cornell.edu
+</center>
+<br>
+
+#### Education  
+**B.Sc. with honors in Biology**  
+April, 2016.  
+Universidad del Valle  
+Cali, Colombia  
+GPA: 4.1  
+Thesis approval score: 5.0/5.0  
+Thesis title: *Strips of natural vegetation as refuge for birds and ants in the sugarcane landscape of the Cauca valley*  
+
+**Ph.D Student in Natural Resources and the Environment**	(Current)  	        
+August, 2021 - Present  
+Cornell University,   
+Ithaca, NY, United States.  
+Thesis title: *“Interactions between migratory and resident birds on the wintering grounds, a community level approach”*  
+Advisor: Ph.D. André Dhondt    
+Cornell Lab of Ornithology, Department of Ecology and Evolutionary Biology.  
+
+#### Honors and Awards  
+* **2023** - *Sustainable Biodiversity Fund* [Research grant],  
+  Atkinson Center,Cornell University.
+
+* **2022** - *Atena fund* [Research grant],  
+  Cornell Lab of Ornithology, Cornell University.  
+
+* **2020** - *Fulbright Scholarship* [Scholarship],  
+  Fulbright Scholarship for doctoral studies,
+  Fulbright- Minciencieas Colombia.  
+
+* **2017** - *Hermano Apolinar María* [Award],  
+  Best work, Natural Option section,  
+  43rd meeting Sociedad Colombiana de Entomología,  
+  Universidad de Caldas, Manizales, Colombia.  
+
+* **2015** - *Academic recognition* [Award],  
+  Tuition scholarship awarded for academic excellence in GPA,  
+  Universidad del Valle, Cali, Colombia.  
+
+* **2015** - *Idea Wild Grant* [Research Grant],   
+  Equipment endowment for undergraduate thesis research,  
+  Idea Wild NGO, Fort Collins, CO, USA.  
+
+* **2015** - *Colombia Biodiversa* [Research Grant],   
+  Funding for undergraduate thesis project,  
+  Best project related to conservation of endangered ecosystems,  
+  Fundación Alejandro Ángel Escobar, Bogotá D.C., Colombia.  
+  
+* **2011** - *Academic recognition* [Award],  
+  Tuition scholarship awarded for academic excellence in GPA,  
+  Universidad del Valle, Cali, Colombia.  
+
+
+
+
+
+
+
+
+
+
+
+
