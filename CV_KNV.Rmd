@@ -8,20 +8,19 @@ output:
     toc_depth: 2
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<center> Centered text (HTML) </center>
-\center Centered text for pdf \center 
-
 <center>
 # C.V. Kimberly Navarro-Velez
 Ph.D. Student in Natural Resources and the Environment  
+Cornell University, Ithaca, NY.  
 kcn35@cornell.edu
-</center>
+</center>  
+
 <br>
+<br>  
 
 #### Education  
 **B.Sc. with honors in Biology**  
@@ -39,6 +38,8 @@ Ithaca, NY, United States.
 Thesis title: *“Interactions between migratory and resident birds on the wintering grounds, a community level approach”*  
 Advisor: Ph.D. André Dhondt    
 Cornell Lab of Ornithology, Department of Ecology and Evolutionary Biology.  
+
+<br>  
 
 #### Honors and Awards  
 * **2023** - *Sustainable Biodiversity Fund* [Research grant],  
@@ -72,6 +73,76 @@ Cornell Lab of Ornithology, Department of Ecology and Evolutionary Biology.
 * **2011** - *Academic recognition* [Award],  
   Tuition scholarship awarded for academic excellence in GPA,  
   Universidad del Valle, Cali, Colombia.  
+
+<br>  
+
+#### Research Experience  
+
+1. **What do warblers and the resident insectivorous birds eat in wintering grounds?** Cornell University, Ithaca, NY, USA.  
+Dhondt's Lab.                            [October, 2022 - Present]{style="float:right"}  
+Role: Primary Investigator.              [CoInvestigator: Ph.D. André Dhondt.]{style="float:right"}  
+* Ideate research proposal.  
+* Request research and exportation permits in the Dominican Republic Ministry of Environment and Natural Resources.  
+* Mistneting and foraging behavior census.  
+* Data entry, tidying and analysis.  
+* Laboratory work processing fecal samples for metabarcoding analysis.  
+
+<br>  
+
+2. **Analysis of forest coverage lost between 1990 - 2015 at XXXX watershed.** Universidad del Valle, Cali, Colombia.  
+Lab of Sustainability, Resilience and Landscapes. 	 		[April – June, 2020]{style="float:right"}     
+Role: CoInvestigator.  [CoInvestigator: Ph.D. Carla Restrepo]{style="float:right"}   
+
+* Created maps of forest coverage over time in a tropical watershed using QGIS.  
+* Analyzed change in forest coverage during the period 1990-2015 with QGIS mapping and R programming.  
+* Wrote a manuscript on the relation between the loss of forest coverage and evapotranspiration (In prep).
+
+<br>
+
+3. **Long-term assessment of birds' extirpation from a tropical
+agroecosystem.** Universidad del Valle, 
+Cali, Colombia.  
+Lab of Ecophysiology, Biogeography, and Evolution			[March, 2018 - May, 2020]{style="float:right"}  
+Role: CoInvestigator.  [CoInvestigator: Ph.D. Raul Sedano]{style="float:right"}  
+
+* Developed a database with 3800 records and assessed the risk of extirpation for 189 bird species.  
+* Composed and submitted article to peer-review international journal.  
+* Lectured on research goals and results within an ornithological seminar.  
+
+<br>
+
+4. **lowland wetland's Restoration, Project 073 CVC-FUV.** Fundación Tierra Posible, Corporación Red de Gestión para el Desarrollo, and Corporación Autónoma Regional del Valle del Cauca. Cali, Colombia. [September, 2019 - February, 2020]{style="float:right"}  
+Role: Leader Biologist. [Supervisor: Ph.D. Vladimir Rojas]{style="float:right"}  
+
+* Advised and coordinated the restoration of 16 wetlands in the Cauca valley.  
+* Presided over decision making process on restoration plans and budget distribution. 
+* Supervised and coordinate 5 field technicians.  
+* Assessed environmental state of each wetland before and after the restoration strategies.  
+
+<br>
+
+5. **Management plan for the invasive species Water Hyacinth (*Eichhornia crassipes*)- Project 096 of 2017 CVC-PUJ.** Pontificia Universidad Javeriana and Corporación Autónoma Regional del Valle del Cauca, Cali, Colombia. [February, 2019 - August, 2019]{style="float:right"}   
+Role: Biologist. [Supervisor: Ph.D. Vladimir Rojas]{style="float:right"}  
+
+* Codesigned and executed sampling method to assess the impacts of the invasive species the Water Hyacinth.  
+* Analyzed data and design programs to mitigate the impact of the invasive species on the wetland ecosystem.  
+* Co-Wrote a follow up and monitoring program, a control program and a general management plan.  
+
+<br>
+
+6. **A Continent-Scale Test of Multiple Hypotheses on the Abundances of Neotropical Birds** Cali, Colombia.	   [October, 2016 – July, 2018]{style="float:right"}   
+Role: CoInvestigator.  [CoInvestigators: Ph.D. David Kikuchi and Ph.D. Gustavo Kattan.]{style="float:right"}  
+* Constructed a database with 3000 bird records and vetted data for bias, outliers or deficient methods.  
+* Participated on decision making about analysis, writing and publication.  
+* Co-authored a publication for Oikos journal.  
+
+<br>
+
+
+
+
+
+
 
 
 
